@@ -1,0 +1,3 @@
+rootProject.name = 'zzq_1023'
+
+include ':app'
